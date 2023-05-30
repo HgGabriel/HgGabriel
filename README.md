@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="https://flowcv.me/hiago-gabriel">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
@@ -51,7 +51,7 @@
           alt="HgGabriel :: overall Top Langs " /></a>
       </p>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="https://github.com/HgGabriel/">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HgGabriel&theme=gruvbox&layout=compact&hide_border=true"
           alt="HgGabriel :: Top Langs by repo" />
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HgGabriel&theme=gruvbox&layout=compact&hide_border=true"
