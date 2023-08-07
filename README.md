@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Hiago Gabriel</h1>
-<h4 align="center">I.T. Student that is always ready to learn new stuff and apply it on my daily basis, you can access my <a href="https://www.linkedin.com/in/hiago-gabriel-oliveira/" target="_blank">Linkedin</a> for more infos.</h4>
+<h4 align="center">Software Engineer who is always ready to learn new stuff and apply it on my daily basis, you can access my <a href="https://www.linkedin.com/in/hiago-gabriel-oliveira/" target="_blank">Linkedin</a> for more infos.</h4>
 </div>
 
 <div align="center">
