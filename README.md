@@ -35,9 +35,6 @@
       <a href="https://www.linkedin.com/in/hiago-gabriel-oliveira/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="mailto:hiagogabrieloliveira@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
     </p>
   <p align="center">
       <a href="https://www.instagram.com/hiago_dgk/" target="blank"><img align="center"
