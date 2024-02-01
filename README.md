@@ -69,20 +69,7 @@
           <a href="https://github.com/HgGabriel/">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HgGabriel&theme=gruvbox&layout=compact&hide_border=true"
           alt="HgGabriel :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HgGabriel&theme=gruvbox&layout=compact&hide_border=true"
-          alt="HgGabriel :: Top Langs by commit" />
           </a>
         </p>
 </details>
-    <details open>
-  <summary><h3>stasistic</h3></summary>
-        <p align="center">
-          <a href="https://github.com/HgGabriel">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hggabriel&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=HgGabriel&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-     </samp>
-  </div>    
-</details>
+   
