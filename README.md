@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://flowcv.me/hiago-gabriel">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
