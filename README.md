@@ -1,70 +1,30 @@
 <div align="center">
-<h1 align="center">Hi, I'm Hiago Gabriel</h1>
-<h4 align="center">Software Engineer who is always ready to learn new stuff and apply it on my daily basis, you can access my <a href="https://www.linkedin.com/in/hiago-gabriel-oliveira/" target="_blank">Linkedin</a> for more infos.</h4>
+  <img width="100%" src="https://i.pinimg.com/originals/85/30/bd/8530bdc8359eeb15f4e2d242f3dade07.gif"> <br>
 </div>
+ <p align="center">
+    <a href="https://www.linkedin.com/in/hiago-gabriel-oliveira/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+   - <a href="https://www.instagram.com/hiago_dgk/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/></a>
+   - <a href="https://open.spotify.com/user/314pmy7ukznwl2kfug43sem5ev3a?si=8e6e16da5ffe48f7"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
+  </p>
 
-<div align="center">
-  <a href="https://flowcv.me/hiago-gabriel">
-  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FF818100&vCenter=true&random=false&width=435&lines=%E2%99%A6+Hiago+Gabriel+%E2%99%A6+;%E2%99%A6+Fullstack+Developer+%E2%99%A6+)](https://git.io/typing-svg)
 
-<div align="center">
-<h1 style="font-weight: bold">Technologies</h1>
+-  I'm a tech focusing on Web and Mobile development, aiming to become a FullStack professional. I'm constantly trying to improve my skills while having learning new stuff.   
+
+| Stack                | Technologies                                     |
+| ------------------- | ----------------------------------------------- |
+| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1400&pause=5000&color=F70000&background=FF818100&vCenter=true&random=false&width=435&lines=%F0%9F%93%9A+Currently+Learnig%3A+)](https://git.io/typing-svg)    |![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)          |
+| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1400&pause=5000&color=F70000&background=FF818100&vCenter=true&random=false&width=435&lines=%F0%9F%92%BB+Web+Development%3A+)](https://git.io/typing-svg)  | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)                   |
+| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1400&pause=5000&color=F70000&background=FF818100&vCenter=true&random=false&width=435&lines=%F0%9F%93%B1+Mobile+Development%3A+)](https://git.io/typing-svg) | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)                                 |
+| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1400&pause=5000&color=F70000&background=FF818100&vCenter=true&random=false&width=435&lines=%F0%9F%9A%80+Backend%3A+)](https://git.io/typing-svg)     | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)                                    |
+| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1400&pause=5000&color=F70000&background=FF818100&vCenter=true&random=false&width=435&lines=%E2%9B%85+Cloud%3A+)](https://git.io/typing-svg)               | ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)                             |
 
 
 
-<img  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-<img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img  src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-<img  src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-<img  src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-</div>
 
------
-<details>
-  <summary>☎️ contact me</summary>
-<div>
-  <samp>
-    <h2 align="center">you can reach me by:</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/hiago-gabriel-oliveira/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://www.instagram.com/hiago_dgk/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+5511937457883" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <br>
-    </p>
-  </samp>
-</div>
-</details>
-  
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-  <samp>
-    <h2 align="center"> Github stats </h2>
-      <br/>
-    <details open>
-  <summary><h3>Languages</h3></summary>
-            <p align="center">
-        <a href="https://github.com/HgGabriel">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HgGabriel&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="HgGabriel :: overall Top Langs " /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/HgGabriel/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HgGabriel&theme=gruvbox&layout=compact&hide_border=true"
-          alt="HgGabriel :: Top Langs by repo" />
-          </a>
-        </p>
-</details>
-   
+
+
+
+
+
+
