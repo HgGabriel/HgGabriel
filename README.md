@@ -9,7 +9,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FF818100&vCenter=true&random=false&width=435&lines=%E2%99%A6+Hiago+Gabriel+%E2%99%A6+;%E2%99%A6+Fullstack+Developer+%E2%99%A6+)](https://git.io/typing-svg)
 
--  I'm a tech focusing on Web and Mobile development, aiming to become a FullStack professional. I'm constantly trying to improve my skills while having learning new stuff.   
+- I'm a tech student focusing on Web and Mobile development, aiming to become a FullStack professional. I'm constantly trying to improve my skills while having learning new stuff.
+
+``` 🎓 Software Development at FATEC MAUÁ - 📌 São Paulo, Brazil ```
 
 | Stack                | Technologies                                     |
 | ------------------- | ----------------------------------------------- |
