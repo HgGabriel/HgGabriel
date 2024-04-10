@@ -21,21 +21,20 @@
 | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1400&pause=5000&color=F70000&background=FF818100&vCenter=true&random=false&width=435&lines=%F0%9F%9A%80+Backend%3A+)](https://git.io/typing-svg)     | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)                                    |
 | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1400&pause=5000&color=F70000&background=FF818100&vCenter=true&random=false&width=435&lines=%E2%9B%85+Cloud%3A+)](https://git.io/typing-svg)               | ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)                             |
 
-<details>
-
-<summary> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&vCenter=true&random=false&width=435&lines=My+Github+Stats+%E2%AC%87" alt="Typing SVG" /> </summary>
-
-<div align="center">
 
 
+<img align=center src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&vCenter=true&random=false&width=435&lines=My+Github+Stats+%E2%AC%87" alt="Typing SVG" /> 
 
-| Languages By Repo                | Stats                                     |
-| ------------------- | ----------------------------------------------- |
-|  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hggabriel&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |  ![HgGabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=hggabriel&theme=dark&show_icons=true) |
 
-</div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hggabriel&theme=shadow_red"/>
+</a>
 
-</details>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hggabriel&theme=shadow_red&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
 
 
 
