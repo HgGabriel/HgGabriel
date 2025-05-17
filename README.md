@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://i.pinimg.com/originals/85/30/bd/8530bdc8359eeb15f4e2d242f3dade07.gif"> <br>
+  <img width="60%" src="https://gifimgs.com/animations/anime/rurouni-kenshin/rurouni_kenshin_6.gif"> <br>
 </div>
  <p align="center">
-    <a href="https://www.linkedin.com/in/hiago-gabriel-oliveira/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-   - <a href="https://www.instagram.com/hiago_dgk/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/></a>
-   - <a href="https://open.spotify.com/user/314pmy7ukznwl2kfug43sem5ev3a?si=8e6e16da5ffe48f7"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hiago-gabriel-oliveira/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+   <a href="https://www.instagram.com/hiago_dgk/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/></a>
+   <a href="https://open.spotify.com/user/314pmy7ukznwl2kfug43sem5ev3a?si=8e6e16da5ffe48f7"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
   </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FF818100&vCenter=true&random=false&width=435&lines=%E2%99%A6+Hiago+Gabriel+%E2%99%A6+;%E2%99%A6+Fullstack+Developer+%E2%99%A6+)](https://git.io/typing-svg)
@@ -23,16 +23,7 @@
 
 
 
-<img align=center src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&vCenter=true&random=false&width=435&lines=My+Github+Stats+%E2%AC%87" alt="Typing SVG" /> 
 
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hggabriel&theme=shadow_red&rank_icon=github"/>
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hggabriel&theme=shadow_red&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 
 
