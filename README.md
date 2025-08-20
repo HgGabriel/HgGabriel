@@ -34,10 +34,6 @@
   <a href="https://open.spotify.com/user/314pmy7ukznwl2kfug43sem5ev3a?si=8e6e16da5ffe48f7" target="blank">
     <img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="spotify"/>
   </a>
-  <a href="https://letterboxd.com/phantomdgk/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Letterboxd-00D735?style=for-the-badge&logo=letterboxd&logoColor=white" alt="letterboxd"/>
-  </a>
-
   <a href="https://www.instagram.com/hiago_dgk/" target="blank">
     <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/>
   </a>
