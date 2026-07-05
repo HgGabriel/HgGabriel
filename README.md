@@ -1,6 +1,6 @@
 # Hi there, I'm Hiago Gabriel  <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://gifimgs.com/animations/anime/rurouni-kenshin/rurouni_kenshin_6.gif" />
+<img align="right" alt="GIF" height="60px" src="https://gifimgs.com/animations/anime/rurouni-kenshin/rurouni_kenshin_6.gif" />
 
 ## I'm a Fullstack Developer
 
@@ -14,8 +14,6 @@ I’m a tech student and software developer working with real-world applications
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiago-gabriel-oliveira/)
 
 ---
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 
