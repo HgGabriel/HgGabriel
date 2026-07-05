@@ -1,6 +1,6 @@
 # Hi there, I'm Hiago Gabriel  <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<img align="right" alt="GIF" height="60px" src="https://gifimgs.com/animations/anime/rurouni-kenshin/rurouni_kenshin_6.gif" />
+<img align="right" alt="GIF" height="90px" src="https://gifimgs.com/animations/anime/rurouni-kenshin/rurouni_kenshin_6.gif" />
 
 ## I'm a Fullstack Developer
 
